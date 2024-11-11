@@ -1,0 +1,9 @@
+@Api_HostAddress = http://localhost:1337
+
+###
+
+GET {{Api_HostAddress}}/status
+
+###
+
+GET {{Api_HostAddress}}/status/1969/4/20
